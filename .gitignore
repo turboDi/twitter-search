@@ -1,0 +1,5 @@
+.gradle/
+build/
+!**/build/.donotdelete
+out/
+**/node_modules/

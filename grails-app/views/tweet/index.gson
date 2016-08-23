@@ -1,0 +1,6 @@
+import twitter4j.Status
+
+model {
+    List<Status> tweets
+}
+json tmpl.tweet(tweets)
